@@ -70,4 +70,5 @@ highlight_name: false
 ---
 
 Raviteja Vangara is a Postdoctoral research associate in Los Alamos National Laboratory. He works in developing Machine learning methods for various scientific applications. 
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
