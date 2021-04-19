@@ -5,7 +5,7 @@
 
 title: Academic # Website name
 baseurl: 'https://rvangara.github.io' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 Raviteja Vangara' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
