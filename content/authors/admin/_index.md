@@ -6,10 +6,7 @@ title: Raviteja Vangara
 superuser: true
 
 # Role/position/tagline
-role: Machine Learning, 
-Data Science,
-Computational Chemistry,
-Post Doctoral Research Associate
+role: Machine Learning, Data Science,Computational Chemistry,Post Doctoral Research Associate
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Los Alamos National Laboratory
