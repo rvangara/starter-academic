@@ -63,12 +63,17 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "rvangara.phd@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Raviteja Vangara is a Postdoctoral research associate in Los Alamos National Laboratory. He works in developing Machine learning methods for various scientific applications. 
+I am a versatile computational scientist and engineer, interested in developing novel technologies for various scientific applications. I combine data science techniques, machine learning models with domain expertise in Chemical Engineering, Applied Physics, Bio Informatics and Climate. 
+
+I am currently a Postdoctoral research associate in Theoretical Division at Los Alamos National Laboratory. My current research includes developing pattern recognition and latent dimensionality identification using Matrix and Tensor Factorization techniques and developing scalable distributed computing methods for high-performance computing scientific applications. 
+
+I am open to new opportunities as applied scientist. Please contact me (rvangara.phd@gmail.com)
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
