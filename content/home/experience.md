@@ -26,7 +26,7 @@ experience:
     company: Los Alamos National Laboratory
     company_url: 'https://www.lanl.gov'
     company_logo: org-gc
-    location: Los Alamos, New Mexico
+    location: Los Alamos
     date_start: '2020-08-03'
     date_end: ''
     description: |2-
