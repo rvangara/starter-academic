@@ -30,9 +30,7 @@ experience:
     date_start: '2020-08-03'
     date_end: ''
     description: |2-
-        Responsibilities include:
-    * Machine learning developer for applications in a) Epigenetics, specifically breathing dynamics of DNA , b)Chemical Physics and c) Computational Fluid and Solid Mechanics. 
-    * Specialized in unsupervised machine learning, which involves identification of latent dimensions using  Matrix and Tensor Decomposition, Graph-based clustering techniques and Natural Language Processing.
+        Responsibilities include:Machine learning developer for applications in a) Epigenetics, specifically breathing dynamics of DNA , b)Chemical Physics and c) Computational Fluid and Solid Mechanics. Specialized in unsupervised machine learning, which involves identification of latent dimensions using  Matrix and Tensor Decomposition, Graph-based clustering techniques and Natural Language Processing.
         
   - title: Professor of Semiconductor Physics
     company: University X
