@@ -23,9 +23,9 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Post Doctoral Research Associate
-    company: University of California San Diego
+    company: University of California, San Diego
     company_url: 'https://alexandrov.cloud.ucsd.edu/home'
-    company_logo: org-x
+    company_logo: org-ucsd
     location: San Diego
     date_start: '2021-01-07'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: Post Doctoral Research Associate
     company: Los Alamos National Laboratory
     company_url: 'https://www.lanl.gov'
-    company_logo: org-gc
+    company_logo: org-lanl
     location: Los Alamos
     date_start: '2020-03-08'
     date_end: '2021-08-31'
@@ -44,7 +44,7 @@ experience:
   - title: Graduate Research Assistant 
     company: Los Alamos National Laboratory
     company_url: 'https://www.lanl.gov'
-    company_logo: org-gc
+    company_logo: org-lanl
     location: Los Alamos
     date_start: '2020-04-18'
     date_end: '2021-03-08'
@@ -54,13 +54,13 @@ experience:
   - title: Graduate Research Assistant 
     company: The University of New Mexico
     company_url: 'https://petsevlab.unm.edu/'
-    company_logo: org-x
+    company_logo: org-unm
     location: Albuquerque, NM
     date_start: '2015-12-01'
     date_end: '2018-03-31'
     description: |2-
-        *Developing density functional models for charged interfaces involving electrolyte solutions; Built a python framework for classical density functional theory coupled with surface charge regulation; model treats solvent explicitly and accounts surface charge basing on thermodynamic chemical equilibrium. 
-        *Observed new physical insights and the steps for a molecular theory to address important features like the role of non-columbic interactions - ionic solvation and surface-ion interactions, on the actual electrostatics of the system i.e. the electric double layer.
+        Developing density functional models for charged interfaces involving electrolyte solutions; Built a python framework for classical density functional theory coupled with surface charge regulation; model treats solvent explicitly and accounts surface charge basing on thermodynamic chemical equilibrium. 
+        Observed new physical insights and the steps for a molecular theory to address important features like the role of non-columbic interactions - ionic solvation and surface-ion interactions, on the actual electrostatics of the system i.e. the electric double layer.
 
 design:
   columns: '2'
