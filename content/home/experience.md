@@ -36,8 +36,8 @@ experience:
     company_url: 'https://www.lanl.gov'
     company_logo: org-gc
     location: Los Alamos
-    date_start: '2020-08-03'
-    date_end: ''
+    date_start: '2020-03-08'
+    date_end: '2021-08-31'
     description: |2-
         Responsibilities include:Machine learning developer for applications in a) Epigenetics, specifically breathing dynamics of DNA , b)Chemical Physics and c) Computational Fluid and Solid Mechanics. Specialized in unsupervised machine learning, which involves identification of latent dimensions using  Matrix and Tensor Decomposition, Graph-based clustering techniques and Natural Language Processing.
 
