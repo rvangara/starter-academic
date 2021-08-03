@@ -23,12 +23,21 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Post Doctoral Research Associate
+    company: University of California, San Diego
+    company_url: 'https://alexandrov.cloud.ucsd.edu/home'
+    company_logo: org-gc
+    location: San Diego
+    date_start: '2021-01-09'
+    date_end: ''
+    description: |2-
+        Responsibilities include: Developing and utilizing machine learning approaches for accurate detection of mutational signatures in human cancer.
+  - title: Post Doctoral Research Associate
     company: Los Alamos National Laboratory
     company_url: 'https://www.lanl.gov'
     company_logo: org-gc
     location: Los Alamos
     date_start: '2020-08-03'
-    date_end: ''
+    date_end: '2021-31-08'
     description: |2-
         Responsibilities include:Machine learning developer for applications in a) Epigenetics, specifically breathing dynamics of DNA , b)Chemical Physics and c) Computational Fluid and Solid Mechanics. Specialized in unsupervised machine learning, which involves identification of latent dimensions using  Matrix and Tensor Decomposition, Graph-based clustering techniques and Natural Language Processing.
         
