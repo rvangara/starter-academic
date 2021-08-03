@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Post Doctoral Research Associate
-    company: University of California, San Diego
+    company: University of California San Diego
     company_url: 'https://alexandrov.cloud.ucsd.edu/home'
     company_logo: org-gc
     location: San Diego
