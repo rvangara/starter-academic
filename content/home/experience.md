@@ -25,7 +25,7 @@ experience:
   - title: Post Doctoral Research Associate
     company: University of California San Diego
     company_url: 'https://alexandrov.cloud.ucsd.edu/home'
-    company_logo: org-X
+    company_logo: org-x
     location: San Diego
     date_start: '2021-01-07'
     date_end: ''
