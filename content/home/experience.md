@@ -31,6 +31,7 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include: Developing and utilizing machine learning approaches for accurate detection of mutational signatures in human cancer.
+        
   - title: Post Doctoral Research Associate
     company: Los Alamos National Laboratory
     company_url: 'https://www.lanl.gov'
@@ -40,16 +41,6 @@ experience:
     date_end: '2021-31-08'
     description: |2-
         Responsibilities include:Machine learning developer for applications in a) Epigenetics, specifically breathing dynamics of DNA , b)Chemical Physics and c) Computational Fluid and Solid Mechanics. Specialized in unsupervised machine learning, which involves identification of latent dimensions using  Matrix and Tensor Decomposition, Graph-based clustering techniques and Natural Language Processing.
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: |2-
-         Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
