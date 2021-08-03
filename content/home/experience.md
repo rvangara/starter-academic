@@ -59,8 +59,8 @@ experience:
     date_start: '2015-12-01'
     date_end: '2018-03-31'
     description: |2-
-        *Developing density functional models for charged interfaces involving electrolyte solutions; Built a python framework for classical density functional theory coupled with surface charge regulation; model treats solvent explicitly and accounts surface charge basing on thermodynamic chemical equilibrium. 
-*Observed new physical insights and the steps for a molecular theory to address important features like the role of non-columbic interactions - ionic solvation and surface-ion interactions, on the actual electrostatics of the system i.e. the electric double layer.
+        Developing density functional models for charged interfaces involving electrolyte solutions; Built a python framework for classical density functional theory coupled with surface charge regulation; model treats solvent explicitly and accounts surface charge basing on thermodynamic chemical equilibrium. 
+        Observed new physical insights and the steps for a molecular theory to address important features like the role of non-columbic interactions - ionic solvation and surface-ion interactions, on the actual electrostatics of the system i.e. the electric double layer.
 
 design:
   columns: '2'
