@@ -25,12 +25,11 @@ experience:
   - title: Post Doctoral Research Associate
     company: University of California San Diego
     company_url: 'https://alexandrov.cloud.ucsd.edu/home'
-    company_logo: org-gc
+    company_logo: org-X
     location: San Diego
     date_start: '2021-01-07'
     date_end: ''
-    description: |2-
-        Responsibilities include: Developing and utilizing machine learning approaches for accurate detection of mutational signatures in human cancer.
+    description: Responsibilities include - Developing and utilizing machine learning approaches for accurate detection of mutational signatures in human cancer.
         
   - title: Post Doctoral Research Associate
     company: Los Alamos National Laboratory
