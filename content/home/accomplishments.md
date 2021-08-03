@@ -23,39 +23,31 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org/account/accomplishments/certificate/7X9C2X4AQKLB
+- certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2021-06-06"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Improving Deep Neural Networks: HyperparameterTuning, Regularization and Optimization
-  url: ""
-- certificate_url: https://www.coursera.org/account/accomplishments/certificate/YKLHRYXJV4KL
-  date_end: ""
-  date_start: "2021-06-03"
+  date_start: "2021-01-25"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Neural Networks and Deep Learning
   url: ""
-- certificate_url: https://www.coursera.org/account/accomplishments/certificate/FA5FU8N7KKRX
+- certificate_url: https://www.edx.org
   date_end: ""
-  date_start: "2021-06-01"
+  date_start: "2021-01-01"
+  description: Formulated informed blockchain models, hypotheses, and use cases.
+  organization: edX
+  organization_url: https://www.edx.org
+  title: Blockchain Fundamentals
+  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+- certificate_url: https://www.datacamp.com
+  date_end: "2020-12-21"
+  date_start: "2020-07-01"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Structuring Machine Learning Projects
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Object-Oriented Programming in R'
   url: ""
-- certificate_url: https://www.coursera.org/account/accomplishments/verify/TWR95RR9JLFT
-  date_end: ""
-  date_start: "2018-03-01"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Julia Scientific Programming
-  url: ""
-  
+
 design:
   columns: '2' 
 ---
