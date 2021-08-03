@@ -30,6 +30,7 @@ item:
   organization_url: https://www.coursera.org
   title: Improving Deep Neural Networks: HyperparameterTuning, Regularization and Optimization
   url: ""
+  
 - certificate_url: https://www.coursera.org/account/accomplishments/certificate/YKLHRYXJV4KL
   date_start: "2021-06-03"
   description: ""
@@ -37,6 +38,7 @@ item:
   organization_url: https://www.coursera.org
   title: Neural Networks and Deep Learning
   url: ""
+  
 - certificate_url: https://www.coursera.org/account/accomplishments/certificate/FA5FU8N7KKRX
   date_start: "2021-06-01"
   description: ""
@@ -44,6 +46,7 @@ item:
   organization_url: https://www.coursera.org
   title: Structuring Machine Learning Projects
   url: ""
+  
 - certificate_url: https://www.coursera.org/account/accomplishments/verify/TWR95RR9JLFT
   date_end: ""
   date_start: "2018-03-01"
