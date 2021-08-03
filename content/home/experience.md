@@ -27,7 +27,7 @@ experience:
     company_url: 'https://alexandrov.cloud.ucsd.edu/home'
     company_logo: org-gc
     location: San Diego
-    date_start: '2021-01-09'
+    date_start: '2021-01-07'
     date_end: ''
     description: |2-
         Responsibilities include: Developing and utilizing machine learning approaches for accurate detection of mutational signatures in human cancer.
@@ -38,7 +38,7 @@ experience:
     company_logo: org-gc
     location: Los Alamos
     date_start: '2020-08-03'
-    date_end: '2021-31-08'
+    date_end: '2021-30-06'
     description: |2-
         Responsibilities include:Machine learning developer for applications in a) Epigenetics, specifically breathing dynamics of DNA , b)Chemical Physics and c) Computational Fluid and Solid Mechanics. Specialized in unsupervised machine learning, which involves identification of latent dimensions using  Matrix and Tensor Decomposition, Graph-based clustering techniques and Natural Language Processing.
 
