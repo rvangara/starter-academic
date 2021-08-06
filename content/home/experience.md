@@ -46,8 +46,8 @@ experience:
     company_url: 'https://www.lanl.gov'
     #company_logo: org-lanl
     location: Los Alamos
-    date_start: '2020-04-18'
-    date_end: '2021-03-08'
+    date_start: '2018-04-18'
+    date_end: '2020-03-08'
     description: |2-
         Responsibilities include:Development of novel matrix and tensor factorization techniques for applications in chemo metrics and phase transitions
         
