@@ -25,7 +25,7 @@ experience:
   - title: Post Doctoral Research Associate
     company: University of California, San Diego
     company_url: 'https://alexandrov.cloud.ucsd.edu/home'
-    company_logo: org-ucsd
+    #company_logo: org-ucsd
     location: San Diego
     date_start: '2021-01-07'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: Post Doctoral Research Associate
     company: Los Alamos National Laboratory
     company_url: 'https://www.lanl.gov'
-    company_logo: org-lanl
+    #company_logo: org-lanl
     location: Los Alamos
     date_start: '2020-03-08'
     date_end: '2021-08-31'
@@ -44,7 +44,7 @@ experience:
   - title: Graduate Research Assistant 
     company: Los Alamos National Laboratory
     company_url: 'https://www.lanl.gov'
-    company_logo: org-lanl
+    #company_logo: org-lanl
     location: Los Alamos
     date_start: '2020-04-18'
     date_end: '2021-03-08'
@@ -54,7 +54,7 @@ experience:
   - title: Graduate Research Assistant 
     company: The University of New Mexico
     company_url: 'https://petsevlab.unm.edu/'
-    company_logo: org-unm
+    #company_logo: org-unm
     location: Albuquerque, NM
     date_start: '2015-12-01'
     date_end: '2018-03-31'
