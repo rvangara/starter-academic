@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: minimal
+theme: Earth
 day_night: true
-font: 'Rose'
+font: 'Classic'
 font_size: L
 
 # SEO
